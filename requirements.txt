@@ -1,2 +1,4 @@
-rembg==2.0.56
 streamlit==1.33.0
+pillow==10.3.0
+rembg==2.0.50
+numpy==1.26.4
