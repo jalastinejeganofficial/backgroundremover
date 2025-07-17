@@ -2,3 +2,4 @@ streamlit
 pillow
 rembg
 numpy
+onnxruntime
