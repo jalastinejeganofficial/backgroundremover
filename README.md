@@ -47,7 +47,7 @@ streamlit run app.py
 3. Upload images (PNG, JPG, JPEG, WEBP) and choose background options
 4. Click "Remove Backgrounds" and download your results
 
-## Requirements
+# Requirements :
 
 Python 3.7+
 Streamlit
