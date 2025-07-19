@@ -2,7 +2,7 @@
 
 A Streamlit web application that removes backgrounds from images instantly. You can download transparent PNGs or add custom color/image backgrounds.
 
-![App Screenshot](screenshot.png)
+![App Screenshot]([screenshot.png](https://github.com/jalastinejeganofficial/backgroundremover/blob/main/images/Screenshot%202025-07-19%20201839.png?raw=true))
 
 ![App Screenshot](screenshot.png)
 
