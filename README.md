@@ -4,6 +4,12 @@ A Streamlit web application that removes backgrounds from images instantly. You 
 
 ![App Screenshot](screenshot.png)
 
+![App Screenshot](screenshot.png)
+
+![App Screenshot](screenshot.png)
+
+![App Screenshot](screenshot.png)
+
 ## Features ✨
 
 - Remove backgrounds from multiple images simultaneously
